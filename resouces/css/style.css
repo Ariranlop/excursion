@@ -37,5 +37,6 @@ img{
 }
 #Copyright{
   text-align: right;
+  margin-right: 10px;
   color: Gray;
 }
